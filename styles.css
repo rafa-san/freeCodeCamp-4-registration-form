@@ -9,8 +9,8 @@ body {
 }
 
 label {
-  display: block;
   margin: 0.5rem 0;
+  display: block;
 }
 
 h1, 
@@ -62,12 +62,12 @@ input, textarea {
 input[type="submit"] {
   background-color: #3b3b4f;
   border-color: white;
-  display: block;
   height: 2em;
   font-size: 1.1rem;
   margin: 1em auto;
   min-width: 300px;
   width: 60%;
+  display: block;
 }
 
 input[type="file"] {
