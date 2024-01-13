@@ -53,6 +53,10 @@ a {
   width: unset;
 }
 
+#terms-and-conditions a {
+  color: #dfdfe2;
+}
+
 input, textarea {
   background-color: #0a0a23;
   border: 1px solid #0a0a23;
